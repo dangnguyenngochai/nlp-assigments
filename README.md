@@ -5,4 +5,5 @@ These are some assignments that I did during my NLP Master Course at Ho Chi Minh
 
 - [1970513_LanguageModel](1970513_LanguageModel/) is a Vietnamese name Spell Checker and Correction, whose description can be found in the report file. The implementation include 2 model: bidirectional and vanilla RNN, whose architectures can also be found in the report
 
-## Tools/Frameworks: keras
+## Tools/Frameworks: 
+- keras
