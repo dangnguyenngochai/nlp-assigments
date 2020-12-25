@@ -1,0 +1,9 @@
+W2V CBOW:
+- Khoảng cách giữa các từ khác nhau trong w2v cbow thể hiện được sự khác biệt giữa các từ hơn so với auto encoder
+- Khoảng cách trung bình giữa của 1 từ so với các từ khác có sự khác biệt rõ rệt, ví dụ như giữa khoảng cách trung bình của từ 0 với từ 4
+- Những từ khác nhau cho ra vector khác nhau
+
+AUTO-ENCODER:
+- Khoảng cách giữa các từ khác nhau tương tự nhau, không thể hiện rõ sự khác biệt
+- Khoảng cách trung bình giữa của 1 từ so với các từ khác cũng không có sự khác nhau rõ rệt
+- Những từ khác nhau cho ra vector khác nhau
